@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOne", "DayOne\DayOne.csproj", "{B07A06E1-7B36-426D-BDBD-D4C82D2638AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOne.Tests", "DayOne.Tests\DayOne.Tests.csproj", "{DC9F87AA-1E85-46C0-B3E0-9602070EE447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B07A06E1-7B36-426D-BDBD-D4C82D2638AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07A06E1-7B36-426D-BDBD-D4C82D2638AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07A06E1-7B36-426D-BDBD-D4C82D2638AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07A06E1-7B36-426D-BDBD-D4C82D2638AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC9F87AA-1E85-46C0-B3E0-9602070EE447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9F87AA-1E85-46C0-B3E0-9602070EE447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9F87AA-1E85-46C0-B3E0-9602070EE447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9F87AA-1E85-46C0-B3E0-9602070EE447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
